@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taliyol.com/sitemap.xml
